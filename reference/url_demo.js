@@ -27,3 +27,4 @@ myUrl.searchParams.forEach((value,name) => console.log(`${name}:${value}`));
 
 
 
+
