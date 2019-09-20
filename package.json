@@ -1,0 +1,19 @@
+{
+  "name": "node-crush",
+  "version": "1.0.0",
+  "description": "node-crush",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZionHJS/nodejs-crush.git"
+  },
+  "author": "zion-hung",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.2",
+    "uuid": "^3.3.3"
+  }
+}
